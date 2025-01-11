@@ -1,10 +1,3 @@
-# SignLanguageDetector
-
-
-Here's a detailed README file template for your Real-Time Sign Language Detector project:
-
----
-
 # Real-Time Sign Language Detector
 
 ## Overview
